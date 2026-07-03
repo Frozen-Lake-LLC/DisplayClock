@@ -1,6 +1,0 @@
-D:\Documents\Downloads\XP_DigitalClock_Source(2)\XP_DigitalClock\XP_DigitalClock\bin\Debug\XP_DigitalClock.exe
-D:\Documents\Downloads\XP_DigitalClock_Source(2)\XP_DigitalClock\XP_DigitalClock\bin\Debug\XP_DigitalClock.pdb
-D:\Documents\Downloads\XP_DigitalClock_Source(2)\XP_DigitalClock\XP_DigitalClock\obj\Debug\XP_DigitalClock.csproj.AssemblyReference.cache
-D:\Documents\Downloads\XP_DigitalClock_Source(2)\XP_DigitalClock\XP_DigitalClock\obj\Debug\XP_DigitalClock.csproj.CoreCompileInputs.cache
-D:\Documents\Downloads\XP_DigitalClock_Source(2)\XP_DigitalClock\XP_DigitalClock\obj\Debug\XP_DigitalClock.exe
-D:\Documents\Downloads\XP_DigitalClock_Source(2)\XP_DigitalClock\XP_DigitalClock\obj\Debug\XP_DigitalClock.pdb
