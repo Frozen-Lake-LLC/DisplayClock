@@ -1,0 +1,10 @@
+.vs/slnx.sqlite
+.vs/DisplayClock.slnx/FileContentIndex/d828f12d-c454-406a-9ed7-83ab1a9ff741.vsidx
+/.vs
+*.cs
+/Backup
+/bin
+/obj
+UpgradeLog.htm
+/obj
+obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
